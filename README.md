@@ -1,39 +1,35 @@
-# Course on fMRI Data Analysis with Python (Summer Term 2019)
+# Kurs zu fMRT-Datenanalyse mit Python (Sommersemester 2019)
 
-This is the repository for our fmri analysis with python course (https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=150894283)
+Hier liegen die notebooks für unser Seminar zur Analyse von fMRT-Daten mit Python (https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=150894283)
 
-### Running this repository
+### Inhaltsverzeichnis
 
-Data analysis is performed with Python 3 using mainly numpy, scipy, pandas, scikit-learn, nilearn, nistats, matplotlib, seaborn and jupyter.
+* [Anschauen einer 3D-Datei mit nilearn](./notebooks/01-anatomisches-bild-anschauen.ipynb)
 
-To run all the scipts, you can create a virtual environment, by first installing miniconda  
+### Notebooks ausführen
+
+Datenanalyse erfolgt mit Python 3 unter Verwendung von mainly numpy, scipy, pandas, scikit-learn, nilearn, nistats, matplotlib, seaborn und jupyter.
+
+Um die Skripte auszuführen, kann eine virtuelle Umgebung erstellt werden. Installieren Sie hierzu zunächst miniconda  
   
 https://conda.io/miniconda.html  
 
-Then you can create a virtual environment in the folder into which you cloned this repository
+Klonen Sie dann dieses GitHub-Repository und erstellen Sie eine neue Umgebung mit der requirements Datei
 
 ```shell
 conda create --name fmri --file requirements.txt
 ```
 
 
-Then you can start the environment like this
-
-
-```shell
-source activate fmri
-jupyter notebook
-```
-
-or, under Windows, start 'anaconda prompt' and try
+Starten Sie dann die Umgebung
 
 ```shell
 conda activate fmri
 jupyter notebook
 ```
 
-### Contact
+### Kontakt
 
-For questions or comments please write to [martin.wegrzyn@uni-bielefeld.de](mailto:martin.wegrzyn@uni-bielefeld.de)
+Fragen und Anmerkungen bitte an [martin.wegrzyn@uni-bielefeld.de](mailto:martin.wegrzyn@uni-bielefeld.de)
 
 
