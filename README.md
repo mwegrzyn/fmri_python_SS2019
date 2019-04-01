@@ -1,6 +1,6 @@
 # Kurs zu fMRT-Datenanalyse mit Python (Sommersemester 2019)
 
-Hier liegen die notebooks für unser Seminar zur Analyse von fMRT-Daten mit Python (https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=150894283)
+In diesem Repository liegen die notebooks für unser Seminar zur Analyse von fMRT-Daten mit Python (https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=150894283)
 
 ### Inhaltsverzeichnis
 
@@ -8,7 +8,7 @@ Hier liegen die notebooks für unser Seminar zur Analyse von fMRT-Daten mit Pyth
 
 ### Notebooks ausführen
 
-Datenanalyse erfolgt mit Python 3 unter Verwendung von mainly numpy, scipy, pandas, scikit-learn, nilearn, nistats, matplotlib, seaborn und jupyter.
+Die Datenanalyse erfolgt mit Python 3 unter Verwendung von mainly numpy, scipy, pandas, scikit-learn, nilearn, nistats, matplotlib, seaborn und jupyter.
 
 Um die Skripte auszuführen, kann eine virtuelle Umgebung erstellt werden. Installieren Sie hierzu zunächst miniconda  
   
