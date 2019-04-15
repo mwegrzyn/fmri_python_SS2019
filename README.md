@@ -6,6 +6,7 @@ In diesem Repository liegen die notebooks für unser Seminar zur Analyse von fMR
 
 * [Anschauen einer 3D-Datei mit nilearn](./notebooks/01-anatomisches-bild-anschauen.ipynb)
 * [Eigenes Viewer-Tool erstellen](./notebooks/02-interaktive_visualisierung.ipynb)
+* [Daten aus fMRT-Zeitserie extrahieren](./notebooks/03-fmrt-zeitverlaufe.ipynb)
 
 ### Notebooks ausführen
 
