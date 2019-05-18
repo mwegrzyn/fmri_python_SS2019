@@ -9,6 +9,7 @@ In diesem Repository liegen die notebooks für unser Seminar zur Analyse von fMR
 * [Daten aus fMRT-Zeitserie extrahieren](./notebooks/03-fmrt-zeitverlaufe.ipynb)
 * [Eine Aktivierungskarte erstellen](./notebooks/04-unser-erstes-hirnbild.ipynb)
 * [Aktivierungskarten für verschiedene Bedingungen erstellen](./notebooks/05-verschiedene-bedingungen-plotten.ipynb)
+* [Aktivierung einer Region als Design verwenden (Seed-To-Brain Korrelationen)](./notebooks/06-correlation-mit-seed.ipynb)
 
 
 ### Notebooks ausführen
