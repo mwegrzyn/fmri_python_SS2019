@@ -11,7 +11,7 @@ In diesem Repository liegen die notebooks für unser Seminar zur Analyse von fMR
 * [Aktivierungskarten für verschiedene Bedingungen erstellen](./notebooks/05-verschiedene-bedingungen-plotten.ipynb)
 * [Aktivierung einer Region als Design verwenden (Seed-To-Brain Korrelationen)](./notebooks/06-correlation-mit-seed.ipynb)
 * [Ein Modell der erwarteten hämodynamischen Antwort erstellen](./notebooks/07-hrf-modell.ipynb)
-
+* [Ein Hirnbild der Korrelationen mit dem HRF-Modell erstellen](./notebooks/08-whole-brain-analyse-mit-hrf.ipynb)
 
 ### Notebooks ausführen
 
