@@ -16,6 +16,7 @@ In diesem Repository liegen die notebooks für unser Seminar zur Analyse von fMR
   * Bonus-Notebooks:
     * [Percent Signal Change](./notebooks/09-bonus-percent-signal-change.ipynb)
     * [Drift Modellieren](./notebooks/09-bonus-drift-models.ipynb)
+    * [Time und Dispersion Derivatives](./notebooks/09-bonus-hrf-und-derivatives.ipynb)
 
 ### Notebooks ausführen
 
