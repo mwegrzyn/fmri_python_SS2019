@@ -13,7 +13,9 @@ In diesem Repository liegen die notebooks für unser Seminar zur Analyse von fMR
 * [Ein Modell der erwarteten hämodynamischen Antwort erstellen](./notebooks/07-hrf-modell.ipynb)
 * [Ein Hirnbild der Korrelationen mit dem HRF-Modell erstellen](./notebooks/08-whole-brain-analyse-mit-hrf.ipynb)
 * ["Beta"-Hirnkarten erstellen](./notebooks/notebooks/09-beta-images.ipynb)
-
+  * Bonus-Notebooks:
+    * [Percent Signal Change](./notebooks/09-bonus-percent-signal-change.ipynb)
+    * [Drift Modellieren](./notebooks/09-bonus-drift-models.ipynb)
 
 ### Notebooks ausführen
 
