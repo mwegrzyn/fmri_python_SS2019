@@ -17,7 +17,8 @@ In diesem Repository liegen die notebooks für unser Seminar zur Analyse von fMR
     * [Percent Signal Change](./notebooks/09-bonus-percent-signal-change.ipynb)
     * [Drift Modellieren](./notebooks/09-bonus-drift-models.ipynb)
     * [Time und Dispersion Derivatives](./notebooks/09-bonus-hrf-und-derivatives.ipynb)
-* ["First-Level" Analyse](./notebooks/10-first-level-analyse.ipynb)
+* ["First-Level" Analyse](./notebooks/11-first-level-analyse.ipynb)
+* [ROI Analyse](./notebooks/12-roi-analyse.ipynb)
 
 ### Notebooks ausführen
 
